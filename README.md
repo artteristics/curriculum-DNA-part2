@@ -1,4 +1,6 @@
-<img width="524" height="692" alt="Curriculum DNA Part II" src="https://github.com/user-attachments/assets/6cba149d-f16a-4a3f-894b-409fb4a3d800" />
+<div align="center">
+  <img width="524" height="692" alt="Curriculum DNA Part II" src="https://github.com/user-attachments/assets/6cba149d-f16a-4a3f-894b-409fb4a3d800" />
+</div>
 
 
 ผมเริ่มต้นจากการเป็นอาจารย์ผู้สอนในห้องเรียน ก่อนจะก้าวสู่บทบาทที่เกี่ยวข้องกับการออกแบบหลักสูตร พัฒนาผลลัพธ์การเรียนรู้ และกำหนดมาตรฐานทางวิชาการ จนได้เห็นชัดว่าหลักสูตรไม่ใช่เพียงเอกสารหรือแผนการเรียน แต่เป็น “ระบบนิเวศแห่งการเรียนรู้” ที่ต้องขับเคลื่อนด้วยข้อมูล หลักฐาน และการพัฒนาต่อเนื่องอย่างมีทิศทาง
